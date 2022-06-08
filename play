@@ -2,9 +2,9 @@ pipeline {
     agent any
 
     stages {
-        stage('Hello') {
+        stage('ek number') {
             steps {
-                echo 'Hello World'
+                echo 'newzealand'
             }
         }
     }
